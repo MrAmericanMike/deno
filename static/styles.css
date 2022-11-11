@@ -1,0 +1,16 @@
+body {
+	background-color: #202030;
+	color: aliceblue;
+}
+
+#lemon {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-size: 10vmin;
+}
+
+#lemon img {
+	width: 75vmin;
+	height: 75vmin;
+}
