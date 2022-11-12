@@ -1,6 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap");
+
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	width: 100vw;
+	height: 100vh;
+}
+
 body {
 	background-color: #202030;
 	color: aliceblue;
+	font-family: "Signika Negative", sans-serif;
 }
 
 #lemon {
